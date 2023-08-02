@@ -1,0 +1,15 @@
+c:\Users\Abdure\Desktop\LearningPath\Shapes\bin\Debug\net7.0\Shapes.exe
+c:\Users\Abdure\Desktop\LearningPath\Shapes\bin\Debug\net7.0\Shapes.deps.json
+c:\Users\Abdure\Desktop\LearningPath\Shapes\bin\Debug\net7.0\Shapes.runtimeconfig.json
+c:\Users\Abdure\Desktop\LearningPath\Shapes\bin\Debug\net7.0\Shapes.dll
+c:\Users\Abdure\Desktop\LearningPath\Shapes\bin\Debug\net7.0\Shapes.pdb
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.csproj.AssemblyReference.cache
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.AssemblyInfoInputs.cache
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.AssemblyInfo.cs
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.csproj.CoreCompileInputs.cache
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.dll
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\refint\Shapes.dll
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.pdb
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\Shapes.genruntimeconfig.cache
+c:\Users\Abdure\Desktop\LearningPath\Shapes\obj\Debug\net7.0\ref\Shapes.dll
