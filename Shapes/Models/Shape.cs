@@ -1,13 +1,13 @@
 namespace Shapes{
     class Shape{
-        protected string name;
+        protected string? Name { get; set; }
 
         public virtual double CalculateArea(){
             return 0;
         }
 
         public virtual void PrintShape(Shape shape){
-            Console.WriteLine($"This is a {shape.name}");
+            Console.WriteLine($"This is a {shape.Name}");
 
             if(shape is Circle){
                 Console.WriteLine($"The area of this circle is {shape.CalculateArea()}");
@@ -26,11 +26,11 @@ namespace Shapes{
         private double radius;
 
         public Circle(){
-            name = "Circle";
+            Name = "Circle";
         }
 
         public Circle(double radius){
-            name = "Circle";
+            Name = "Circle";
             this.radius = radius;
         }
 
@@ -52,11 +52,11 @@ namespace Shapes{
         private double height;
 
         public Rectangle(){
-            name = "Rectangle";
+            Name = "Rectangle";
         }
 
         public Rectangle(double width, double height){
-            name = "Rectangle";
+            Name = "Rectangle";
             this.width = width;
             this.height = height;
         }
@@ -86,11 +86,11 @@ namespace Shapes{
         private double height;
 
         public Triangle(){
-            name = "Triangle";
+            Name = "Triangle";
         }
 
         public Triangle(double base_, double height){
-            name = "Triangle";
+            Name = "Triangle";
             this.base_ = base_;
             this.height = height;
         }
