@@ -1,0 +1,15 @@
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+c:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+c:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+c:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\Abdure\Desktop\Eskelet\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll

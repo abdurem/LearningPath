@@ -1,0 +1,15 @@
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\bin\Debug\net7.0\Dictionary.exe
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\bin\Debug\net7.0\Dictionary.dll
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.csproj.AssemblyReference.cache
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.dll
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+c:\Users\Abdure\Desktop\Eskelet\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
