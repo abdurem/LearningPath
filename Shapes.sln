@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day4", "Day4", "{BD6AAE97-F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Manager", "Day4\Task Manager\Task Manager.csproj", "{94073611-2F5F-4AA0-A8C1-06683C6D5F53}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day5", "Day5", "{7C718D52-CF3C-4B8A-A449-76E5C2D92A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Management System", "Day5\Student Management System\Student Management System.csproj", "{C7F9168B-97B9-4BCD-BC52-084FA9534657}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,9 +40,14 @@ Global
 		{94073611-2F5F-4AA0-A8C1-06683C6D5F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94073611-2F5F-4AA0-A8C1-06683C6D5F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94073611-2F5F-4AA0-A8C1-06683C6D5F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F9168B-97B9-4BCD-BC52-084FA9534657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F9168B-97B9-4BCD-BC52-084FA9534657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F9168B-97B9-4BCD-BC52-084FA9534657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F9168B-97B9-4BCD-BC52-084FA9534657}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C5A76769-E967-499C-A8BF-72B966B9E5E0} = {371CB029-6287-4232-BD12-A2591BF9A306}
 		{94073611-2F5F-4AA0-A8C1-06683C6D5F53} = {BD6AAE97-F9C4-41DE-ACA9-DF503C8F1E71}
+		{C7F9168B-97B9-4BCD-BC52-084FA9534657} = {7C718D52-CF3C-4B8A-A449-76E5C2D92A63}
 	EndGlobalSection
 EndGlobal
