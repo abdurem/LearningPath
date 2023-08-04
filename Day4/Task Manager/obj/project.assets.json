@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdure\\Desktop\\LearningPath\\Day4\\Task Manager\\Task Manager.csproj",
+      "projectUniqueName": "c:\\Users\\Abdure\\Desktop\\LearningPath\\Day4\\Task Manager\\Task Manager.csproj",
       "projectName": "Task Manager",
-      "projectPath": "C:\\Users\\Abdure\\Desktop\\LearningPath\\Day4\\Task Manager\\Task Manager.csproj",
+      "projectPath": "c:\\Users\\Abdure\\Desktop\\LearningPath\\Day4\\Task Manager\\Task Manager.csproj",
       "packagesPath": "C:\\Users\\Abdure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdure\\Desktop\\LearningPath\\Day4\\Task Manager\\obj\\",
+      "outputPath": "c:\\Users\\Abdure\\Desktop\\LearningPath\\Day4\\Task Manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abdure\\AppData\\Roaming\\NuGet\\NuGet.Config"
