@@ -1,45 +1,68 @@
+using FileOps;
+
 namespace Student{
-    class Student_<T>{
+    class Student_{
         public string? Name { get; set; }
+        public int RollNo { get; set; }
         public int Age { get; set; }
-        public int RollNo { get; init; }
-        public string? Grade { get; set; }
+        public char? Grade {get; set;}
     }
 
     class StudentList<T>{
-        private Student_<T>[] _students;
-        private int _count;
-        public StudentList(int capacity){
-            _students = new Student_<T>[capacity];
-            _count = 0;
-        }
-        public void Add(Student_<T> student){
-            _students[_count] = student;
-            _count++;
-        }
-        public Student_<T> Get(int index){
-            return _students[index];
-        }
-        public int Count(){
-            return _count;
+        public T[] Students { get; set; }
+
+        public StudentList(T[] students){
+            Students = students;
         }
 
-        public Student_<T> Search(string name){
-            
-            Student_<T> student = (Student_<T>)(from stud in _students
-            where stud.Name == name
-            select stud);
-
-            return student;
+        public void Print(){
+            foreach(T student in Students){
+                Console.WriteLine(student);
+            }
         }
 
-        public Student_<T> Search(int rollNo){
-            
-            Student_<T> student = (Student_<T>)(from stud in _students
-            where stud.RollNo == rollNo
-            select stud);
+        public void WriteToFile(string fileName){
+            FileOps_.WriteToJsonFile(fileName, this);
+        }
 
-            return student;
+        public static StudentList<T> ReadFromFile(string fileName){
+            return FileOps_.ReadFromJsonFile<StudentList<T>>(fileName);
+        }
+
+        public static Student_ GetBestStudent(Student_[] students){
+            Student_ bestStudent = students.OrderByDescending(student => student.Grade).First();
+
+            return bestStudent;
+        }
+
+        public static Student_ GetWorstStudent(Student_[] students){
+            Student_ worstStudent = students.OrderBy(student => student.Grade).First();
+
+            return worstStudent;
+        }
+
+        public static Student_ GetOldestStudent(Student_[] students){
+            Student_ oldestStudent = students.OrderByDescending(student => student.Age).First();
+
+            return oldestStudent;
+        }
+
+        public static Student_ GetYoungestStudent(Student_[] students){
+            Student_ youngestStudent = students.OrderBy(student => student.Age).First();
+
+            return youngestStudent;
+        }
+
+        public static Student_ GetHighestRollNoStudent(Student_[] students){
+            Student_ highestRollNoStudent = students.OrderByDescending(student => student.RollNo).First();
+
+            return highestRollNoStudent;
+        }
+
+        public static Student_ GetLowestRollNoStudent(Student_[] students){
+            Student_ lowestRollNoStudent = students.OrderBy(student => student.RollNo).First();
+
+            return lowestRollNoStudent;
         }
     }
 }

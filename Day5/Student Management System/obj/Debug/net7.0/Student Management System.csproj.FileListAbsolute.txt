@@ -1,0 +1,12 @@
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\bin\Debug\net7.0\Student Management System.deps.json
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\bin\Debug\net7.0\Student Management System.dll
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\bin\Debug\net7.0\Student Management System.pdb
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\Student Management System.csproj.AssemblyReference.cache
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfoInputs.cache
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\Student Management System.AssemblyInfo.cs
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\Student Management System.dll
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\refint\Student Management System.dll
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\Student Management System.pdb
+C:\Users\Abdure\Desktop\LearningPath\day5\Student Management System\obj\Debug\net7.0\ref\Student Management System.dll
